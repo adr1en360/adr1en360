@@ -11,7 +11,7 @@
 
 ---
 
-Building agentic AI systems and real-time interfaces that make you think, not think for you. Shipped from Lagos.
+Building agentic AI systems and real-time interfaces that make you think, not think for you.
 
 ---
 
