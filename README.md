@@ -67,6 +67,5 @@ Socratic idea interrogation engine. Refuses to generate a plan until it has stre
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adr1en360&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adr1en360&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adr1en360&layout=compact&theme=dark&hide_border=true&hide_title=true&langs_count=8" alt="Top Languages" />
 </div>
